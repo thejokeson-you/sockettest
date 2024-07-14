@@ -1,6 +1,6 @@
 # Client-Server Socket program
 A program which creates a socket between a client & server, where the server echoes whatever it receives back to the client.
-I made this to demonstrate how a client & server communicate using Python's Socket API
+I made this to demonstrate how a client & server communicate using Python's Socket API.
 
 **NOTE:** This program was written months ago & I only just uploaded the program onto GitHub, which is why all code was committed & pushed once.
 
